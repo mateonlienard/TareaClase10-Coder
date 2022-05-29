@@ -39,10 +39,9 @@ header{
     padding: 5px;
     justify-content: space-around;
     color: white;
-    transition: all 1s;
 }
 
-.tabla:hover{
+.art:hover{
     transform: scale(1.1);
 }
 
@@ -52,11 +51,12 @@ header{
     color: rgb(255, 255, 255);
 }
 
-a{
+.art{
     text-decoration: none;
     color: aliceblue;
     font-size: 20px;
     font-family: fantasy;
+    transition: all 1s;
 }
 
 .main-container{
