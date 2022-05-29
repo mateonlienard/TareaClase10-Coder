@@ -39,6 +39,11 @@ header{
     padding: 5px;
     justify-content: space-around;
     color: white;
+    transition: all 1s;
+}
+
+.tabla:hover{
+    transform: scale(1.1);
 }
 
 .lugar-tabla{
