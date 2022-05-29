@@ -47,7 +47,7 @@ header{
     color: rgb(255, 255, 255);
 }
 
-.art{
+a{
     text-decoration: none;
     color: aliceblue;
     font-size: 20px;
@@ -55,7 +55,7 @@ header{
     transition: all 1s;
 }
 
-.art:hover{
+a:hover{
     transform: scale(1.1);
 }
 
